@@ -1,0 +1,13 @@
+# Figure rendering and analytical/kernel notebooks (Python 3.10+).
+numpy>=1.26,<2.1
+scipy>=1.11
+pandas>=2.2
+matplotlib>=3.8
+ipykernel>=6
+jupyterlab>=4
+threadpoolctl>=3
+Pillow>=10
+
+# Neural-network training is optional and substantially more expensive.
+# Install separately to match the recorded experiments:
+# python -m pip install tensorflow==2.18.0 keras==3.12.3 numpy==2.0.2 scipy==1.15.3
