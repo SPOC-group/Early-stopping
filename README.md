@@ -1,7 +1,6 @@
 # Early stopping under label noise
 
-Code and data for *When is early stopping beneficial under label noise?*
-
+Code and data for [*When is early stopping beneficial under label noise?*](https://arxiv.org/abs/2610.33846).
 Use Python 3.10–3.12 and run the notebooks from this folder:
 
 ```bash
